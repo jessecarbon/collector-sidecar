@@ -7,8 +7,8 @@ imports:
   version: c32d31af94b0e9d3b2877e49c1a581ad5a793343
 - name: github.com/kardianos/osext
   version: 10da29423eb9a6269092eebdc2be32209612d9d2
-- name: github.com/kardianos/service
-  version: 6a55aece86cb1cf31706b300854a30d89af9682f
+- name: github.com/jessecarbon/service
+  version: bd219ce2c8f65479422553b819881eaf4d4d10f4
 - name: github.com/lestrrat/go-file-rotatelogs
   version: bb1d28fd5ac7ec9873540d5bba975d009f271f67
 - name: github.com/pborman/uuid

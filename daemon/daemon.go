@@ -23,7 +23,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kardianos/service"
+	"github.com/jessecarbon/service"
 
 	"github.com/Graylog2/collector-sidecar/backends"
 	"github.com/Graylog2/collector-sidecar/common"

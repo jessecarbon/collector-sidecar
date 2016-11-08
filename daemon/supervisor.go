@@ -16,7 +16,7 @@
 package daemon
 
 import (
-	"github.com/kardianos/service"
+	"github.com/jessecarbon/service"
 )
 
 type Supervisor struct {
